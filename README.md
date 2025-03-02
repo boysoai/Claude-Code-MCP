@@ -4,3 +4,4 @@ Currently, we have collected the most suitable MCP services for Claude AI from G
 [Github Issues](https://github.com/boysoai/Claude-Code-MCP/issues)
 Website:
 [https://claudecode.app](https://claudecode.app)
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/e3dfd525-8116-478d-9eae-55f39d48f913" />
